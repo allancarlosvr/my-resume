@@ -1,54 +1,9 @@
-# Allan Souza
-**Senior System Administrator**  
-Location: Rio de Janeiro, Brazil  
-Phone: +55 24 99975 7010  
-Email: [allancarlos.vr@gmail.com](mailto:allancarlos.vr@gmail.com)
-LinkedIn: [allancarlosvr](https://linkedin.com/in/allancarlosvr)  
-
-
-## Professional Summary
-Experienced Systems Administrator with over 15 years of expertise in managing Linux (including RHEL, Ubuntu, Debian) and Windows environments. Skilled in enhancing system reliability and performance through strategic implementations and optimizations. Proven track record in network security, system automation, and cloud infrastructure management.
-
-## Core Competencies
-- **Operating Systems**: Linux (RHEL, Ubuntu, Debian), Windows Server
-- **Tools**: VMWare, Hyper-V, AWS, Azure, Docker
-- **Programming**: Bash, PowerShell, Python
-- **Networks**: DHCP, DNS, VLANs, Firewalls (PFSense, Watchguard)
-- **Monitoring Tools**: Nagios, Zabbix, Grafana
-- **Certifications**: AWS Cloud Practitioner, Azure Fundamentals, LPIC-1
-
-## Professional Experience
-**System Administrator, Omnivector LLC** – Stockholm, Sweden  
-*January 2024 - May 2024*
-- Engineered and maintained high-performance computing (HPC) tools for automotive simulations, improving processing speed by 30%.
-- Developed automated testing scripts in Python, reducing manual testing time by 40%.
-
-**System Administrator, Sintel Automotive**  
-*February 2023 - December 2023*
-- Managed AWS cloud infrastructure, enhancing system scalability and security.
-- Oversaw network monitoring and troubleshooting, reducing system downtime by 25%.
-
-## Education
-**Bachelor of Science in IT Management**  
-University of Estácio de Sá, 2016 - 2018
-
-**Technician’s License in Information Systems**  
-Universidade Federal Fluminense (UFF), 2014 - 2017
-
-## Certifications
-- Certified AWS Cloud Practitioner
-- Microsoft Certified: Azure Fundamentals
-- Linux Professional Institute Certification (LPIC-1)
-
-## Additional Sections
-### Languages
-- Portuguese (Native)
-- English (Fluent)
-- Spanish (Basic)
-
-### Professional Projects
-- Upgrade of corporate security systems for Volkswagen Bus & Truck using Watchguard technologies.
-- Deployment of a fully automated backup solution for critical data using Terraform and Ansible.
-- Provided Custom Images using Packer to MAAS
-- Sustainability of Linux and Windows Servers (AWS Ec2)
-- Implementation of Zabbix 6 from 0 to 100% productive & Integration with Grafana
+| Allan  Souza HPC System Administrator / DevOps / SRE | ![][image1] Allan Souza Verrières-le-Buisson 91370 \- France \+33 6 59 73 41 54 [allancarlos.vr@gmail.com](mailto:allancarlos.vr@gmail.com) Linkedin: [https://www.linkedin.com/in/allancarlosvr](https://www.linkedin.com/in/allancarlosvr)  |
+| :---- | :---- |
+| **ㅡ Professional Summary** | ![][image2] Senior HPC System Administrator with over 15 years of experience in Linux systems, datacenter operations, and infrastructure management, including GPU-based HPC environments. Currently operating as a trusted technical advisor for a large industrial HPC production platform in France, working closely with vendors and internal stakeholders to ensure system reliability, performance, and observability. Strong expertise in HPC operations, Slurm, Linux (RHEL/Ubuntu), monitoring (Grafana/Prometheus), troubleshooting complex hardware/software issues, and supporting mission-critical environments. |
+| **ㅡ Professional Experience** | ![][image3] **Alliance SERVICES PLUS /** HPC System Administrator Nov 2024 – Current, Paris- FR Resident HPC administrator supporting a **production HPC environment for ESI Group / Keysight France**, acting as the primary operational and technical reference. **Key responsibilities and achievements:** Full operational ownership of a **production HPC cluster (\~150 compute nodes)** including login, master, and storage nodes Administration and optimization of **Slurm workload manager** (queues, scheduling, troubleshooting, performance analysis) Day-to-day **Linux administration** on **RHEL and Ubuntu** systems GPU and compute node health monitoring, fault analysis, and incident investigation Design and implementation of **observability stack** using **Prometheus and Grafana** Analysis of performance issues reported by users and collaboration with stakeholders to identify root causes Coordination with **datacenter teams and hardware vendors** for maintenance, firmware updates, and incident resolution Knowledge transfer and documentation to support continuity and operational excellence Active role as **trusted technical advisor**, bridging client requirements and vendor engineering teams **Omnivector LLC /** HPC & DevOps Engineer Jan 2024 – May 2024, Oregon \- US Member of the HPC team supporting **Scania (Sweden)** Built and operated HPC clusters using **Canonical MAAS and Juju** Image automation using **Packer** HPC application testing and validation using **Python** Infrastructure optimization and automation for reproducible deployments **Sintel Automotive /** System Administrator Feb 2023 – Dec 2023, Sao Paulo BR Linux administration (Rocky Linux 9, Ubuntu, Amazon Linux 2\) Monitoring using **Nagios** AWS infrastructure management (EC2, VPC, ELB, Route53, Security Groups) Support for enterprise and HPC-related workloads **ZAMIX /** IT Infrastructure & Security Enginner Jul 2021 – Feb 2023,  Rio de Janeiro BR Monitoring with **Zabbix** Firewall and security management (**pfSense, WatchGuard**) Network segmentation (VLANs, L2/L3 switching) Infrastructure reliability for performance-sensitive systems **EISENMANN /** Sysadmin Oct  2018 – Jun 2021,  Rio de Janeiro BR Oversaw firewall policies, VPN administration, and server virtualization with Hyper-V, critical for HPC infrastructure. Implemented and managed Cisco Wireless solutions, ensuring seamless connectivity across HPC sites. Automated system administration tasks using Shell scripting, increasing operational efficiency and reliability. **GIGA+ /** Senior IT Specialist Nov 2017 – Oct 2018,  Rio de Janeiro BR Managed open source projects like GLPi and OCS Inventory, optimizing service desk operations. Deployed network monitoring with Zabbix and administrated SQL Server, ensuring data integrity and availability Provided high-level technical support and system administration, utilizing VMWare ESXi and Vcenter. **SANKYU /** IT Manager Jun 2013 – Jun 2017,  Rio de Janeiro BR Led the IT department, overseeing the implementation of cost-reduction and growth-focused projects. Coordinated technical teams and managed network administration, including Linux and Windows servers. Implemented open source backup servers, enhancing data security and disaster recovery capabilities. Led the deployment of the Holerite Online System (PHP/MySQL), streamlining payroll processes. Managed the integration of various technologies such as Ubuntu, Debian, IPTABLES, Squid, and Zabbix for efficient IT operations. **SANKYU /** Infrastructure Engineer Jul 2007 – Jun 2012,  Rio de Janeiro BR  Managed LAN and Wi-Fi networks, ensuring reliable connectivity and performance. Administered Windows Server environments and Proxy Linux systems. Coordinated resource inventory and ticket management, optimizing IT support operations. Deployed and managed client/server network environments, integrating subsidiaries with Ubiquiti Radios. Provided user support for Windows and smartphone platforms (Android, iPhone, Blackberry). Played a key role in domain deployment and network integration projects, enhancing overall IT infrastructure.  |
+| **ㅡ Education** | ![][image4] **Universidade Federal Fluminense /** BS Information Technology 2014 – 2017,   RIO DE JANEIRO \- BR **Universidade Estácio de Sá** / IT Management 2016 – 2018,  RIO DE JANEIRO \- BR |
+| **ㅡ Licenses & Certifications** | ![][image5] Microsoft Certified: Azure Fundamentals AWS Cloud Quest: Cloud Practitioner AWS Certified Cloud Practitioner Ansible for the DevOps & Sysamin  |
+| **ㅡ Technical Skills**  | ![][image5] **HPC Management:** Proficient in managing HPC clusters using Slurm, MAAS, and Juju. **Linux Administration:** Advanced proficiency in managing Linux servers and environments. **Shell Scripting:** Expertise in automating tasks using Bash and Shell scripts. **Python:** Skilled in writing and maintaining Python scripts for automation and application testing. **Cloud Computing:** In-depth knowledge of AWS services (EC2, Route 53, ELB, VPC) and Azure fundamentals. **Network Security:** Proficient in configuring and managing firewalls (PFSense, Watchguard) and network monitoring tools (Zabbix, Nagios). **Virtualization:** Hands-on experience with VMWare, Hyper-V, and containerization technologies. **Infrastructure as Code:** Familiarity with infrastructure automation and configuration management tools.  |
+|  **ㅡ Languages** |  ![][image5] Portuguese: Native English: Fluent (Professional) French: Intermediate (A2)Spanish: Basic (A2) |
+|  **ㅡ References Contacts** |  ![][image5] Fatima Goncalves \- \+55 11 96847-8671 Employer: EISENMANN Diego Dias \- \+55 24 98845-0164 Employer: Sankyu S.A James Beedy \- \+1 541-848-1757 Employer: OMNIVECTOR  |
